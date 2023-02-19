@@ -162,7 +162,7 @@ links (array): objects representing game join links:
 			name: 'CEV-Eris',
 			logo: 'eris.png',
 			tags: ['experienced', 'mediumrp'],
-			website: 'https://forum.cev-eris.com',
+			website: 'https://wiki.cev-eris.com',
 			description: [
 				'Join the ragtag crew of a doomed ship on a quest for exploration, insanity and greed! Unique graphics, department factions and antags! Only live during weekends.',
 			],
